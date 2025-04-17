@@ -3,7 +3,7 @@ Data Engineer with a passion for building robust pipelines and solving interesti
 
 ## 🌱 I'm currently working on
 - **DataCanary**: A personal project I'm developing to explore data quality monitoring concepts - it helps identify anomalies and potential issues in datasets before they cause problems downstream
-- **Letterboxd-Wrappeds**: Spotify Wrapped for film lovers—visualizing your Letterboxd history with personalized analytics and shareable insights
+- **Letterboxd-Wrapped**: Spotify Wrapped for film lovers—visualizing your Letterboxd history with personalized analytics and shareable insights
 - **Go-Monkey-Interpreter**: An interpreter written in Go that helps me understand language design and implementation
 
 ## 📫 How to reach me
